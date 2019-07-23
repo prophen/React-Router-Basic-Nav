@@ -24,7 +24,7 @@ Topics:
 * Wrap your `<App />` component that you're passing to `ReactDOM.render()` with your new `Router` component.
 * open up your chrome `REACT DEV TOOLS` and notice your app is now all wrapped in `BrowserRouter`
 * inside the `REACT DEV TOOLS` expand `<BrowserRouter>` and highlight `<Router>` and notice that here is a `"history"` object on props and a `"match"` object on its state. These two objects are how all of our Router is going to work. 
-
+ 
 ### Steps for "Declaring" your routes
 
 * Inside of your `App.js` file `import { Route } from 'react-router-dom';`

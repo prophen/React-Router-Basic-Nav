@@ -1,10 +1,10 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "React Router",
+  "name": "React Router Mini",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "192x192",
+      "src": "./favicon.ico",
+      "sizes": "64X64",
       "type": "image/png"
     }
   ],
